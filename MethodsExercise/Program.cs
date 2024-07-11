@@ -13,7 +13,7 @@
             Console.WriteLine(subtracted);
 
             int mult = Multiply(2, 5);
-            Console.WriteLine(Multiply);
+            Console.WriteLine(mult); 
 
             int div = Divide(4, 2);
             Console.WriteLine(div);
